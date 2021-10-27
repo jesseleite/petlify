@@ -1,14 +1,14 @@
 id: 9242876a-41c4-42f8-96f8-ac92d6025406
 title: Settings
 data:
-  site_name: 'My Secret Public Diary'
+  site_name: 'Petlify'
   links:
     -
       name: Home
       url: '/'
     -
       name: Twitter
-      url: 'https://twitter.com/statamic'
+      url: 'https://twitter.com/jesseleite85'
     -
       name: Github
-      url: 'https://github.com/statamic/starter-kit-doogie-browser'
+      url: 'https://github.com/jesseleite/petlify'
